@@ -1,5 +1,7 @@
 {
   "name": "irecycle-mobile",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
